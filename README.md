@@ -1,4 +1,4 @@
-座位信息   在userConfig.py中修改
+
 function  具体方法实现
 header 请求头信息   
 jscode 获取js加密 字段
